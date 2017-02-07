@@ -1,0 +1,1 @@
+The Outputs of the program were split into 1MB each as the total size for each file was around 60MB. The first 1 MB of the output file is being sent. This is done because Tonglin Li stated this in his mail.
